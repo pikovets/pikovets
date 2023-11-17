@@ -18,6 +18,9 @@ Front-End Development:
 HTML, CSS, JavaScript: Building the foundation of a captivating user interface.
 Vue.js: Incorporating the reactivity and simplicity of Vue.js for dynamic and responsive front-end experiences.
 
+### Data Structures & Algorithms
+I also like to solve different algorithms on the CodeWars platform.  
+Here is my profile: [https://www.codewars.com/users/Leruk/badges/large](https://www.codewars.com/users/Leruk/badges/small)
 
 * 🌍  I'm based in Kraków, Poland
 * ✉️  You can contact me at [pikovets.t@gmail.com](mailto:pikovets.t@gmail.com)
