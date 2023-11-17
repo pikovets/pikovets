@@ -4,8 +4,8 @@ Hi 👋 My name is Timur Pikovets
 Java Developer
 --------------
 
-I'm a Java Developer with previous experience making games in Unreal Engine using C++
-I am currently working on my own social network
+Greetings! I'm a Java Developer with a strong background in game development using C++ in Unreal Engine.  
+Currently, I'm focused on crafting a cutting-edge social network.
 
 Technical Stack: 
 
