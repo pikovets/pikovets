@@ -25,7 +25,7 @@ Currently, I'm focused on crafting a cutting-edge social network.
 ### Badges
 
 #### Data Structures & Algorithms
-I also like to solve different algorithms on the CodeWars platform.  
+I also enjoy solving various algorithmic problems on the CodeWars platform.
 
 ![Codewars](https://github.r2v.ch/codewars?user=Leruk&stroke=YELLOW)
 
