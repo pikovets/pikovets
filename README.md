@@ -7,14 +7,6 @@ Java Developer
 Greetings! I'm a Java Developer with a strong background in game development using C++ in Unreal Engine.  
 Currently, I'm focused on crafting a cutting-edge social network.
 
-Technical Stack: 
-
-Backend Development: 
-Spring Boot, Spring (Core, MVC, Data JPA), JWT
-
-Front-End Development: 
-HTML, CSS, JavaScript, Vue.js
-
 * 🌍  I'm based in Kraków, Poland
 * ✉️  You can contact me at [pikovets.t@gmail.com](mailto:pikovets.t@gmail.com)
 
