@@ -4,7 +4,20 @@ Hi 👋 My name is Timur Pikovets
 Java Developer
 --------------
 
-I'm a skilled Java Developer with a passion for game development in Unreal Engine using C++. My expertise extends beyond the realm of gaming, as I am currently engaged in crafting my own social network. Technical Stack: Backend Development: Spring Boot: Leveraging the power of Spring for robust and scalable backend solutions. Spring (Core, MVC, Data JPA): Applying a comprehensive Spring ecosystem to ensure efficient and modular code. JWT (JSON Web Tokens): Implementing secure authentication for seamless user interactions. Front-End Development: HTML, CSS, JavaScript: Building the foundation of a captivating user interface. Vue.js: Incorporating the reactivity and simplicity of Vue.js for dynamic and responsive front-end experiences.
+I'm a skilled Java Developer with a passion for game development in Unreal Engine using C++.
+I am currently engaged in crafting my own social network.
+
+Technical Stack: 
+
+Backend Development: 
+Spring Boot: Leveraging the power of Spring for robust and scalable backend solutions. 
+Spring (Core, MVC, Data JPA): Applying a comprehensive Spring ecosystem to ensure efficient and modular code. 
+JWT (JSON Web Tokens): Implementing secure authentication for seamless user interactions. 
+
+Front-End Development: 
+HTML, CSS, JavaScript: Building the foundation of a captivating user interface.
+Vue.js: Incorporating the reactivity and simplicity of Vue.js for dynamic and responsive front-end experiences.
+
 
 * 🌍  I'm based in Kraków, Poland
 * ✉️  You can contact me at [pikovets.t@gmail.com](mailto:pikovets.t@gmail.com)
@@ -19,12 +32,10 @@ I'm a skilled Java Developer with a passion for game development in Unreal Engin
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/pikovets" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tymur-pikovets-24b350164" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/tymur-pikovets-24b350164" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pikovets"><img src="https://github-readme-stats.vercel.app/api?username=pikovets&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pikovets's GitHub stats" /></a>
-
-<a href="http://www.github.com/pikovets"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pikovets&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
