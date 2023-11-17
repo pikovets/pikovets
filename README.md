@@ -4,8 +4,8 @@ Hi 👋 My name is Timur Pikovets
 Java Developer
 --------------
 
-I'm a skilled Java Developer with a passion for game development in Unreal Engine using C++.
-I am currently engaged in crafting my own social network.
+I'm a Java Developer with previous experience making games in Unreal Engine using C++
+I am currently working on my own social network
 
 Technical Stack: 
 
@@ -38,4 +38,4 @@ Vue.js: Incorporating the reactivity and simplicity of Vue.js for dynamic and re
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
+<a href="http://www.github.com/pikovets"><img src="https://github-readme-stats.vercel.app/api?username=pikovets&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="pikovets's GitHub stats" /></a>
