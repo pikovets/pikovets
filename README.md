@@ -18,10 +18,6 @@ Front-End Development:
 HTML, CSS, JavaScript: Building the foundation of a captivating user interface.
 Vue.js: Incorporating the reactivity and simplicity of Vue.js for dynamic and responsive front-end experiences.
 
-### Data Structures & Algorithms
-I also like to solve different algorithms on the CodeWars platform.  
-Here is my profile: [https://www.codewars.com/users/Leruk/badges/large](https://www.codewars.com/users/Leruk/badges/small)
-
 * 🌍  I'm based in Kraków, Poland
 * ✉️  You can contact me at [pikovets.t@gmail.com](mailto:pikovets.t@gmail.com)
 
@@ -38,6 +34,11 @@ Here is my profile: [https://www.codewars.com/users/Leruk/badges/large](https://
 <p align="left"> <a href="https://www.github.com/pikovets" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tymur-pikovets-24b350164" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
+
+#### Data Structures & Algorithms
+I also like to solve different algorithms on the CodeWars platform.  
+
+![Codewars](https://github.r2v.ch/codewars?user=Leruk&stroke=YELLOW)
 
 <b>My GitHub Stats</b>
 
