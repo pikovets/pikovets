@@ -10,13 +10,10 @@ Currently, I'm focused on crafting a cutting-edge social network.
 Technical Stack: 
 
 Backend Development: 
-Spring Boot: Leveraging the power of Spring for robust and scalable backend solutions. 
-Spring (Core, MVC, Data JPA): Applying a comprehensive Spring ecosystem to ensure efficient and modular code. 
-JWT (JSON Web Tokens): Implementing secure authentication for seamless user interactions. 
+Spring Boot, Spring (Core, MVC, Data JPA), JWT
 
 Front-End Development: 
-HTML, CSS, JavaScript: Building the foundation of a captivating user interface.
-Vue.js: Incorporating the reactivity and simplicity of Vue.js for dynamic and responsive front-end experiences.
+HTML, CSS, JavaScript, Vue.js
 
 * 🌍  I'm based in Kraków, Poland
 * ✉️  You can contact me at [pikovets.t@gmail.com](mailto:pikovets.t@gmail.com)
