@@ -1,4 +1,4 @@
-Hi 👋 My name is Timur Pikovets
+Hi 👋 My name is Tymur Pikovets
 ===============================
 
 Java Developer
